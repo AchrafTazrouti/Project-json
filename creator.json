@@ -1,0 +1,59 @@
+[
+    {
+      "id": "CREATOR-001",
+      "name": "Lady of the Lake",
+      "origin": "Arthurian Legend",
+      "famousCreations": ["Excalibur"],
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Lady%20of%20the%20Lake.jpg"
+    },
+    {
+      "id": "CREATOR-002",
+      "name": "Brokkr & Sindri",
+      "origin": "Norse Mythology",
+      "famousCreations": ["Mjolnir", "Gungnir"],
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Brokkr%20%26%20Sindri.jpg"
+    },
+    {
+      "id": "CREATOR-003",
+      "name": "George Lucas",
+      "origin": "Science Fiction",
+      "famousCreations": ["Lightsaber"],
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/George%20Lucas.jpg"
+    },
+    {
+      "id": "CREATOR-004",
+      "name": "Masamune",
+      "origin": "Japanese History",
+      "famousCreations": ["Masamune"],
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/refs/heads/main/assets%20creator/Masamune.webp"
+    },
+    {
+      "id": "CREATOR-005",
+      "name": "Hylian Sages",
+      "origin": "Legend of Zelda",
+      "famousCreations": ["The Master Sword"],
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Hylian%20Sages.jpg"
+    },
+    {
+      "id": "CREATOR-006",
+      "name": "Tolkien",
+      "origin": "Fantasy Literature",
+      "famousCreations": ["Andúril", "Glamdring"],
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Tolkien.jpg"
+    },
+    {
+      "id": "CREATOR-007",
+      "name": "Muramasa Sengo",
+      "origin": "Japanese History",
+      "famousCreations": ["Muramasa"],
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Muramasa%20Sengo.jpg"
+    },
+    {
+      "id": "CREATOR-008",
+      "name": "Amaterasu",
+      "origin": "Japanese Mythology",
+      "famousCreations": ["Kusanagi-no-Tsurugi"],
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Amaterasu.jpg"
+    }
+  ]
+  
