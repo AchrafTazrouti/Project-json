@@ -1,0 +1,172 @@
+[
+  {
+    "id": "WP-001",
+    "name": "Excalibur",
+    "description": "A legendary sword of King Arthur, said to be forged with magical properties. Only the true king could wield it, granting immense power and an unbreakable blade that shines with divine radiance.",
+    "killCount": 1000,
+    "isActive": false,
+    "discoveryDate": "1136-01-01",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets/Excalibur.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Unbreakable", "Grants kingship", "Glows in darkness"],
+    "creator": {
+      "id": "CREATOR-001",
+      "name": "Lady of the Lake",
+      "origin": "Arthurian Legend",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Lady%20of%20the%20Lake.jpg"
+    }
+  },
+  {
+    "id": "WP-002",
+    "name": "Mjolnir",
+    "description": "The enchanted hammer of Thor, the Norse god of thunder. Forged by dwarven blacksmiths, it can summon lightning, return to its wielder's hand, and can only be lifted by those deemed worthy.",
+    "killCount": 50000,
+    "isActive": true,
+    "discoveryDate": "965-06-21",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/refs/heads/main/assets/Mjolnir.webp",
+    "rarity": "Epic",
+    "abilities": ["Summons lightning", "Can only be wielded by the worthy", "Returns when thrown"],
+    "creator": {
+      "id": "CREATOR-002",
+      "name": "Brokkr & Sindri",
+      "origin": "Norse Mythology",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Brokkr%20%26%20Sindri.jpg"
+    }
+  },
+  {
+    "id": "WP-003",
+    "name": "Lightsaber",
+    "description": "A weapon of the Jedi and Sith, powered by a Kyber crystal. Its plasma blade can cut through nearly anything, symbolizing both the discipline of the light side and the raw power of the dark.",
+    "killCount": 1000000,
+    "isActive": true,
+    "discoveryDate": "1977-05-25",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets/Lightsaber.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Cuts through anything", "Deflects blaster shots", "Varies in color"],
+    "creator": {
+      "id": "CREATOR-003",
+      "name": "George Lucas",
+      "origin": "Science Fiction",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/George%20Lucas.jpg"
+    }
+  },
+  {
+    "id": "WP-004",
+    "name": "Masamune",
+    "description": "A legendary katana crafted by the master swordsmith Goro Nyudo Masamune. Known for its perfect balance and razor-sharp edge, it represents the harmony between steel and spirit.",
+    "killCount": 200,
+    "isActive": false,
+    "discoveryDate": "1288-01-01",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets/Masamune.jpg",
+    "rarity": "Epic",
+    "abilities": ["Razor-sharp edge", "Perfect balance", "Symbol of the samurai"],
+    "creator": {
+      "id": "CREATOR-004",
+      "name": "Masamune",
+      "origin": "Japanese History",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/refs/heads/main/assets%20creator/Masamune.webp"
+    }
+  },
+  {
+    "id": "WP-005",
+    "name": "The Master Sword",
+    "description": "The sacred blade of Hyrule, wielded by Link to vanquish darkness. It chooses its hero, glowing with power when facing evil, and is often found resting in the pedestal of time.",
+    "killCount": 500,
+    "isActive": true,
+    "discoveryDate": "1986-02-21",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/refs/heads/main/assets/The%20Master%20Sword.webp",
+    "rarity": "Legendary",
+    "abilities": ["Seals away darkness", "Glows when near evil", "Unbreakable by normal means"],
+    "creator": {
+      "id": "CREATOR-005",
+      "name": "Hylian Sages",
+      "origin": "Legend of Zelda",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Hylian%20Sages.jpg"
+    }
+  },
+  {
+    "id": "WP-006",
+    "name": "Gungnir",
+    "description": "The spear of Odin, said to never miss its mark. Forged by dwarven craftsmen, it was wielded by the Allfather himself, symbolizing authority and the unbreakable will of the gods.",
+    "killCount": 10000,
+    "isActive": false,
+    "discoveryDate": "1000-01-01",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets/Gungnir.jpg",
+    "rarity": "Epic",
+    "abilities": ["Never misses target", "Unbreakable", "Symbol of divine authority"],
+    "creator": {
+      "id": "CREATOR-002",
+      "name": "Brokkr & Sindri",
+      "origin": "Norse Mythology",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Brokkr%20%26%20Sindri.jpg"
+    }
+  },
+  {
+    "id": "WP-007",
+    "name": "Kusanagi-no-Tsurugi",
+    "description": "A mystical sword from Japanese legend, discovered inside a dragon’s corpse. Said to grant immense power, it became a symbol of imperial authority in Japan’s sacred regalia.",
+    "killCount": 300,
+    "isActive": false,
+    "discoveryDate": "700-01-01",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/refs/heads/main/assets/Kusanagi-no-Tsurugi.webp",
+    "rarity": "Epic",
+    "abilities": ["Wind manipulation", "Sacred status", "Can cut through iron"],
+    "creator": {
+      "id": "CREATOR-008",
+      "name": "Amaterasu",
+      "origin": "Japanese Mythology",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Amaterasu.jpg"
+    }
+  },
+  {
+    "id": "WP-008",
+    "name": "Andúril",
+    "description": "The reforged blade of Narsil, wielded by Aragorn in his quest to reclaim Gondor’s throne. Its radiant edge and elven craftsmanship make it a weapon of kings and a beacon of hope.",
+    "killCount": 1000,
+    "isActive": true,
+    "discoveryDate": "1954-07-29",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/refs/heads/main/assets/And%C3%BAril.avif",
+    "rarity": "Legendary",
+    "abilities": ["Flames in battle", "Stronger than normal steel", "Symbol of rightful kingship"],
+    "creator": {
+      "id": "CREATOR-006",
+      "name": "Tolkien",
+      "origin": "Fantasy Literature",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Tolkien.jpg"
+    }
+  },
+  {
+    "id": "WP-009",
+    "name": "Muramasa",
+    "description": "A feared blade crafted by the legendary Muramasa Sengo. Known for its bloodthirsty nature, warriors who wield it are said to be consumed by an unrelenting desire for battle.",
+    "killCount": 8000,
+    "isActive": false,
+    "discoveryDate": "1500-01-01",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/refs/heads/main/assets/Muramasa.webp",
+    "rarity": "Epic",
+    "abilities": ["Bloodthirsty curse", "Extreme sharpness", "Lust for combat"],
+    "creator": {
+      "id": "CREATOR-007",
+      "name": "Muramasa Sengo",
+      "origin": "Japanese History",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Muramasa%20Sengo.jpg"
+    }
+  },
+  {
+    "id": "WP-010",
+    "name": "Glamdring",
+    "description": "An ancient elven sword wielded by Gandalf, glowing blue in the presence of orcs. Its finely honed edge and enchanted craftsmanship make it a weapon of both elegance and destruction.",
+    "killCount": 3000,
+    "isActive": true,
+    "discoveryDate": "1937-09-21",
+    "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/refs/heads/main/assets/Glamdring.webp",
+    "rarity": "Legendary",
+    "abilities": ["Glows near orcs", "Elven craftsmanship", "Unbreakable"],
+    "creator": {
+      "id": "CREATOR-006",
+      "name": "Tolkien",
+      "origin": "Fantasy Literature",
+      "imageUrl": "https://raw.githubusercontent.com/AchrafTazrouti/Project-json/main/assets%20creator/Tolkien.jpg"
+    }
+  }
+]
